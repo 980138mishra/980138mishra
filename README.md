@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=980138mishra&label=Profile%20views&color=0e75b6&style=flat" alt="980138mishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/subham-kumar-5494aa1a6/]( https://www.linkedin.com/in/subham-kumar-5494aa1a6/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/subham-kumar-5494aa1a6/][https://www.linkedin.com/in/subham-kumar-5494aa1a6/]
 
 - ⚡ Fun fact **I am funny😍**
 
